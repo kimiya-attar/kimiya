@@ -1,0 +1,21 @@
+1. Five topics that interest me: 
+- Renewable energy grid reliability and outages in California
+- Climate change impacts on biodiversity and ecosystems
+- Air pollution and environmental justice in urban areas
+- Electrification of transportation systems
+- Data analysis of energy consumption and efficiency
+
+ Three sources and how they relate:
+- A dataset from the California Independent System Operator (CAISO) showing electricity demand and supply, relating to analysis of peak demand, outages, and how renewable energy integrates into the grid
+- A research paper on climate change and biodiversity loss because it shows how rising temperatures and environmental stressors impact ecosystems and species survival.
+- A news article about air pollution in disadvantaged communities. This relates to environmental justice because it highlights how certain populations are disproportionately affected by pollution.
+
+ Topic relating to Python skills:
+I would focus on renewable energy grid reliability. I could use Python to analyze datasets from CAISO, using loops and conditionals to identify patterns in outages or peak demand. 
+ I could also use lists and dictionaries to organize data and create visualizations to better understand how renewable energy affects grid stability.
+
+ Project ideas: 
+-Ambitious idea: Build a program that analyzes real-time energy data and predicts potential grid stress or outages based on demand and renewable supply fluctuations.
+- Simpler idea: Create a Python script that reads a dataset of energy usage and calculates peak demand times, average usage, and basic trends over time. 
+
+2. 
